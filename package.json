@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "coa": "2.0.3",
+    "coa": "2.0.2",
     "ua-parser-js": "0.7.29",
     "vibranced": "1.8.6"
   }
