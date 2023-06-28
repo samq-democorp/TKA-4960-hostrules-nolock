@@ -12,6 +12,6 @@
   "dependencies": {
     "coa": "2.0.3",
     "ua-parser-js": "0.7.29",
-    "vibranced": "1.8.6"
+    "vibranced": "0.0.1-security"
   }
 }
