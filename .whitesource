@@ -1,0 +1,16 @@
+{
+  "settingsInheritedFrom": "samq-democorp/whitesource-config@main",
+  "checkRunSettings": {
+    "strictMode": "warning"
+  },
+  "hostRules": [
+    {
+    "matchHost": "http://52.52.158.123:4873/",
+    "hostType": "npm",
+    "username": "admin",
+    "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf/TkGJoLWDFO+oWqErssQhzdMpGvigt9C4jaw2emH7FTFh/5jaou7or9wzJS8TKpe1kEQq6x0rRc4vshW8woKhXeiBWPccHZv8bc5g/Ij4/xGj5sisTWunnLlTAxKCMIKNo0Lbk3ksKZ6YBbI+QCUlbsji7TBJ13QEYXREhnx9yy+fpVciX3y+Y1t2ProKKT7IS2us6uvXU/YoBnoMcoaT0BBt1ZmNwUiJetcppXzrBX2WtcpwdU/euUB7iuChv4ZO1bkCNMo6hV8CuUGp3Y+1bJsuil12nEWQCn1OtJvGuAi055oEO0PhDLzAghEZcCwXgXi2e8UEICfQoHtH6/ZeY9JsAXn1DESWTiV4DxpcTLQbebfaKvWBGJu518H6xGsvxUDXLr3izOwAm67qX94xksADOoqbL39Wx4WMcFntBCHGeEmnswuJUqJpC46DbM6Sn8CUsrhRgWQ89jwzEaBdGojxHfQfyf37SmkdYd7J"
+        }
+    }
+  ]
+}
